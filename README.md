@@ -23,6 +23,8 @@ The project includes pre-defined individuals to test the reasoning:
 • Teacher: Mr. Rossi, Mr. Rahman. 
 • Examples: 10A MATH101, Attendance: Himel 2026-02-02, Grade: Himel - MATH101 
 Midterm. 
+
+
 How to Run 
 1. Open protégé Desktop. 
 2. Go to File > Open and select the file. 
